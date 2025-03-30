@@ -130,7 +130,6 @@ header nav ul li a:hover{
 
 }
 .programs-content .h-p-tag{
-    position: sticky;
     display: block;
     /* padding-top: 3px; */
     padding-bottom: -5px;
