@@ -9,3 +9,13 @@ function hideMenu(){
 }
 
 // Donations alert msg
+
+function showDonate (){
+    const modal = document.querySelector(`.modal`)
+    modal.style.display =`block`
+}
+
+function hideDonate (){
+    const modal = document.querySelector(`.modal`)
+    modal.style.display =`none`
+}
